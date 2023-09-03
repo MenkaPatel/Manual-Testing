@@ -20,9 +20,9 @@ In this section, I have added bug reports during testing efforts. Report include
 
 ## Personal Projects
 I have worked on various testing projects, including personal projects and practice assignments. Here, you can find details about the projects I have completed and the testing efforts involved.
-- app.vwo.com 
-- e-commerce website
-- Online food ordering webapplication
+- app.vwo.com (https://docs.google.com/spreadsheets/d/1loPIq9NCXn5uIK-nOF0YZrjWnN2-uajLKEBotb9jnwg/edit?usp=sharing)
+- e-commerce website (https://docs.google.com/spreadsheets/d/126cPjnj44Dm25mJDmE55gGA5rgsk703inY2nArPFWH8/edit?usp=sharing)
+- Online food ordering webapplication (https://docs.google.com/spreadsheets/d/1CwHhrXFHrmpmzW194X41Wni0ps3wOIjx1rmDJprzsto/edit?usp=sharing)
 
 Feel free to explore the artifacts and documentation in this repository to get better understanding of my manual testing skills and work done.
 
