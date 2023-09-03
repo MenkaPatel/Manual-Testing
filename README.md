@@ -2,10 +2,10 @@
 Welcome to my GitHub repository, where I showcase my manual testing artifacts
 
 ##Table of Contents
-- Introduction
-- Test Cases
-- Bug Reports
-- Projects
+- Introduction (#Introduction)
+- Test Cases (#Test Cases)
+- Bug Reports (#Bug Reports)
+- Projects (#Personal Projects)
 
 ## Introduction
 I am a passionate manual tester with a strong commitment to ensureing software quality. This repository serves as a glimps into my testing projects and work done.
@@ -20,7 +20,7 @@ In this section, I have added bug reports during testing efforts. Report include
 
 ## Personal Projects
 I have worked on various testing projects, including personal projects and practice assignments. Here, you can find details about the projects I have completed and the testing efforts involved.
-- app.vwo.com (app.vwo.com/APP.VWO.COM-Test Cases_Bug Report.xlsx)
+- app.vwo.com 
 - e-commerce website
 - Online food ordering webapplication
 
