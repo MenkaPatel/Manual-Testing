@@ -20,7 +20,7 @@ In this section, I have added bug reports during testing efforts. Report include
 
 ## Personal Projects
 I have worked on various testing projects, including personal projects and practice assignments. Here, you can find details about the projects I have completed and the testing efforts involved.
-- app.vwo.com
+- app.vwo.com (app.vwo.com/APP.VWO.COM-Test Cases_Bug Report.xlsx)
 - e-commerce website
 - Online food ordering webapplication
 
